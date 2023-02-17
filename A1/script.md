@@ -150,7 +150,11 @@ organization.
 
 
 # Evolution
-TODO: `Yash` Add some info about evolution please :))
+Bitcoin Core is a decentralized system that has been in development for over 10 years. It supports various functionalities such as blockchain, transactions, contracts, wallets, payment processing, and a P2P network.
+
+Over the years, Bitcoin Core has undergone various updates, with a focus on improving fee handling, wallet implementation, GUI changes, security updates, and future steps. The latest version, v24, introduces Miniscript support and wallet migration support and focuses on scalability and security. 
+
+Bitcoin Core is a self-sustaining P2P network that requires continued efforts to improve efficiency, user-friendliness, and security.
 
 
 # Lessons Learned
